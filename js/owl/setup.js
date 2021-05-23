@@ -15,4 +15,12 @@ $('.owl-carousel').owlCarousel({
     }
 })
 
+function playhino(){
+    audio = document.getElementById('audio');
+    audio.play();
+}
 
+function pausehino(){
+    audio = document.getElementById('audio');
+    audio.pause();
+}
