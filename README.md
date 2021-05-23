@@ -7,13 +7,20 @@ O Projeto Santaflix é um clone do Netflix para divulgar vídeos dos momentos ma
 
 Autor: Kaíque Machado, eterno torcedor do Santa Cruz.
 
-## 📜Conteúdo
+## :scroll:Conteúdo
 
 * Conquistas Marcantes
 * Ídolos 
 * Jogos Inesquecíveis
+* Hino do Santa Cruz Futebol Clube
 
-veja:  https://kaiquecodes.github.io/Santaflix
+Veja:  https://kaiquecodes.github.io/santaflix
 
-## ⚽Fork 
-Fork o projeto e divulgue o seu clube do coração.
+## :computer:Telas
+
+![Tela Mac](https://github.com/kaiquecodes/santaflix/blob/main/img/Mac.png)
+
+<img  src="img/Iphone.png" align = center width = 350px>
+
+## :smiley:Fork 
+##  Fork o projeto e divulgue o seu clube do coração!
