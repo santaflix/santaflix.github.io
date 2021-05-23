@@ -1,0 +1,95 @@
+/* Mobile */
+@media screen and (max-width:1335px) {
+  
+    header .logo-text{
+        margin-left: 0;
+        margin-top: 5px;
+    }
+
+    header .logo-img{
+       display: none;
+    }
+   
+    header .container-header{
+        display: flex;
+        flex-direction: column;
+       
+     }
+
+     header nav a {
+       margin-left: 8px;
+          
+    }
+
+    .kaiquecodes{
+        width: 200px;
+    }
+  
+
+    .filme-main {
+       height: 450px;
+       margin-top: 10px;
+    
+    }
+            
+    .trailer{
+        display: none;
+    }
+    
+    .botao{
+        margin-top: 5px;
+        width: 200px;
+    }
+
+    .box-filme{
+        
+        height: 80%;
+        width: 80%;
+      
+    }
+
+    .pix {
+        text-align: center;
+
+    }
+ 
+}
+@media screen and (min-width: 1000px) {
+    .description-main{
+        width: 50%;
+    }
+  
+}
+
+/* Para celular */
+@media screen and (max-width: 700px) {
+    .video-play{
+        height: 300px;
+        width: 100%;
+    }
+
+    .filme-main .titulo-main {
+       font-size: 30px;
+        
+    }
+      
+}
+/* Tablets e Notebooks */
+@media screen and (min-width: 700px) and (max-width: 1335px) {
+    .video-play{
+        height: 480px;
+        width: 80%;
+    }
+
+}
+
+/* Telas Grandes*/
+@media screen and (min-width: 1500px) {
+    .video-play{
+        height: 700px;
+        width: 80%;
+    }
+  
+}
+
+

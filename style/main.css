@@ -1,0 +1,209 @@
+:root {
+    --vermelho: #E50914;
+    --preta: #141414;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*elementos base*/
+
+body {
+    background: var(--preta);
+    font-family: sans-serif, Arial, Helvetica;
+    color: white;
+       
+}
+
+header .container-header{
+    display: flex;
+    align-items: center;
+    justify-content:start;
+  
+}
+
+header .logo-img{
+    width: 50px;
+    height: 50px; 
+    margin-left: auto; 
+    margin-right: 20px;
+    margin-top: 5px;
+}
+
+header .logo-text{
+    color: var(--vermelho);
+    font-family: "Arial Black", Times;
+    font-size: 40px;
+    margin-left: 20px;
+        
+}
+
+.logo-link{
+    text-decoration: none;
+}
+
+header nav a {
+    text-decoration: none;
+    color: #AAA;
+    margin-left: 20px;
+}
+
+header nav a:hover {
+    color: #fff;
+}
+
+/*filme principal*/
+
+.container {
+    margin-left: 20px;
+}
+
+.filme-main {
+    background: linear-gradient(rgba(0,0,0,.40),rgba(0,0,0,.40)100%) ,url("../img/foto-arruda.jpg"); 
+    font-size: 16px;
+    height: 600px;
+    background-size: cover ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+       
+}
+
+.trailer{
+    
+    margin-top: 60px;
+    position: absolute; 
+    top:0; 
+    left: 0; 
+    width: 100%; 
+    height: 600px;
+    z-index: -1;
+    justify-content: start;
+}
+
+.filme-main .description-main {
+   margin-top: 10px;
+   margin-bottom: 40px; 
+
+}
+
+.filme-main .titulo-main {
+    margin-top: 15%;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.botao{
+
+    background-color: rgba(0,0,0,.50);
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    margin-right: 15px;
+    font-size: 12px;
+    cursor: pointer;
+    transition: .3s ease all;
+}
+
+.botao:hover{
+    background-color: white;
+    color: black;
+}
+
+.botao i{
+    margin-right: 5px;
+}
+
+.filme-main .container{
+    width: 70%
+}
+
+.assista{
+    margin: 10px 0 5px 20px;
+    font-family: sans-serif;
+    width: 300px;
+    display: flex;
+    justify-content: start;
+    
+}
+
+.video-play{
+   width: 90%;
+   height: 500px;
+   display: flex;
+   align-items: center;
+}
+
+.container-play{
+   margin: 20px;
+   display: flex;
+   justify-content: center;
+}
+
+.autor{
+    display: flex;
+    justify-content: center;
+}
+.kaiquecodes{
+    margin-top: 20px;
+    width: 300px;
+}
+
+.sobre{
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+      
+}
+
+.name-autor{
+    margin:0;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.text-autor{
+    box-sizing: border-box;
+    font-size: 20px;
+    text-align: justify;
+    max-width: 900px;
+    padding: 20px;  
+    margin-bottom: 50px;
+}
+
+.pix{
+    background-color:whitesmoke;
+    color: var(--preta);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    font-size: 15px ;
+}
+
+.page-footer{
+    background-color:brown;
+    display: flex;
+    justify-content: center;
+    padding: 5px;   
+       
+}
+.criador{
+    text-decoration: none;
+    color: white;
+    font-style: bold;
+}
+
+.criador:hover {
+    color: black;
+}
+
+.projeto{
+  color:black;
+  font-style: bold;
+}
