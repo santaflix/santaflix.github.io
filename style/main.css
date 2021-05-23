@@ -131,19 +131,6 @@ header nav a:hover {
     
 }
 
-.video-play{
-   width: 90%;
-   height: 500px;
-   display: flex;
-   align-items: center;
-}
-
-.container-play{
-   margin: 20px;
-   display: flex;
-   justify-content: center;
-}
-
 .autor{
     display: flex;
     justify-content: center;
