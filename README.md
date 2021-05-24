@@ -20,7 +20,7 @@ Veja:  https://kaiquecodes.github.io/santaflix
 
 ![Tela Mac](https://github.com/kaiquecodes/santaflix/blob/main/img/Mac.png)
 
-<img  src="img/Iphone.png" align = center width = 350px>
+<img  src="img/Iphone.png" align = center width = 300px>
 
 ## :smiley:Fork 
 ##  Fork o projeto e divulgue o seu clube do coração!
