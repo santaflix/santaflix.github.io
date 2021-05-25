@@ -19,7 +19,7 @@ Veja:  https://kaiquecodes.github.io/santaflix
 ## :loudspeaker:Tutorial
 
  * Clique na capa do filme escolhido e seja redirecionado para o respectivo vídeo do Youtube.
- * Caso deseja clique no botão "Play Hino" para escutar o hino oficial do Santa Cruz.
+ * Se desejar, clique no botão "Play Hino" para escutar o hino oficial do Santa Cruz.
 
 ## :computer:Telas
 
