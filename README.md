@@ -14,7 +14,7 @@ Autor: Kaíque Machado, eterno torcedor do Santa Cruz.
 * Jogos Inesquecíveis
 * Hino do Santa Cruz Futebol Clube
 
-Veja:  https://kaiquecodes.github.io/santaflix
+Veja:  https://santaflix.github.io
 
 ## :loudspeaker:Tutorial
 
